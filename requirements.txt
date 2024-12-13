@@ -1,0 +1,5 @@
+aiohttp
+aio_pika
+python-dotenv
+beautifulsoup4
+typing_extensions
